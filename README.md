@@ -4,10 +4,10 @@ Hi 👋 My name is Alexis Lo
 Software Developer
 ------------------
 
-Current working as web developer and learning about mobile development
+Current working as fullstack web developer and learning about mobile development
 
-* 🌍  I'm based in Costa Rica
-* 🧠  I'm learning Flutter
+* 🌍  I'm based in Costa Rica 🇨🇷
+* 🧠  I'm learning Flutter 🎯
 
 ### Skills
 
