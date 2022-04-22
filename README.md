@@ -6,8 +6,8 @@ Software Developer
 
 Current working as web developer and learning about mobile development
 
-* 🌍  I'm based in Costa Rica
-* 🧠  I'm learning Flutter
+* 🌍  I'm based in Costa Rica
+* 🧠  I'm learning Flutter
 
 ### Skills
 
@@ -34,9 +34,11 @@ Current working as web developer and learning about mobile development
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/alexlodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/alex.lo.f" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -46,5 +48,3 @@ Current working as web developer and learning about mobile development
 <a href="http://www.github.com/alexlodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexlodev&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/alexlodev"><img src="https://activity-graph.herokuapp.com/graph?username=alexlodev&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/alexlodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlodev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
