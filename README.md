@@ -46,5 +46,3 @@ Current working as fullstack web developer and learning about mobile development
 <a href="http://www.github.com/alexlodev"><img src="https://github-readme-stats.vercel.app/api?username=alexlodev&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="alexlodev's GitHub stats" /></a>
 
 <a href="http://www.github.com/alexlodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexlodev&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/alexlodev"><img src="https://activity-graph.herokuapp.com/graph?username=alexlodev&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
